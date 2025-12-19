@@ -1,0 +1,7 @@
+{
+  "name": "Ideatika Space",
+  "description": "A creative studio where creativity drives innovation, specializing in brand strategy, website building, and creative content production.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
